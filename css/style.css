@@ -1,0 +1,10 @@
+/* 
+css/style.css
+Folhas de estilos globais
+*/
+
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    size: 16px;
+}
